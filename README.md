@@ -1,1 +1,0 @@
-# ns_rag_assistant
